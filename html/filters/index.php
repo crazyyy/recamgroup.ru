@@ -12,7 +12,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/fancySelect.js"></script>
     <script src="js/need.js"></script>
-    <title>Узнай наличие и цену запчасти</title>
+    <title>Узнай наличие и цену фильтра</title>
     <script type="text/javascript">
         /* init Call Service */
         var CallSiteId = 'f8d62754464a50f84a66e68cdf6e9370';
@@ -50,13 +50,13 @@
             </label>
         </div>
         <div class="slogan arrow_box">
-            Запчасти для спецтехники и грузовиков
+            Фильтра для спецтехники, грузовиков и автобусов
         </div>
     </div>
 </div>
 <div id="main_body">
     <div class="center">
-        <h1 class="main_title">Узнай наличие и цену запчасти</h1>
+        <h1 class="main_title">Узнай наличие и цену фильтра</h1>
         <div id="control">
         <ul class="main_ul">
             <!--<li style="width: 186px">
@@ -105,11 +105,11 @@
 </div>
 <div id="static">
     <div class="center">
-        <h4>Самый большой склад запчастей для<br>
-            дорожно-строительной техники</h4>
+        <h4>Самый большой склад фильтров для<br>
+            спецтехники, автобусов и грузовиков</h4>
         <div class="static_count">
-            <label>4 000 000</label>
-            <div class="static_lenta">запчастей на складе</div>
+            <label>4 000</label>
+            <div class="static_lenta">видов фильтров на складе</div>
         </div>
     </div>
 </div>
@@ -177,7 +177,7 @@
 <div id="brend">
     <div class="center">
         <h4>Бренды с которыми мы работаем</h4>
-        <img src="./images/brand.gif">
+        <img src="./images/brands.jpg">
     </div>
 </div>
 
