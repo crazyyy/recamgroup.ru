@@ -108,7 +108,7 @@
         <h4>Самый большой склад фильтров для<br>
             спецтехники, автобусов и грузовиков</h4>
         <div class="static_count">
-            <label>4 000</label>
+            <label>4 000 000</label>
             <div class="static_lenta">видов фильтров на складе</div>
         </div>
     </div>
