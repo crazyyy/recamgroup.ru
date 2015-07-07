@@ -37,7 +37,7 @@ body{font-family: "Pt serif",Arial,sans-serif;margin:0px; padding:0px;min-width:
     border-width: 10px; margin-left: -12px;
 }
 
-#main_body{float:left;height:353px;width: 100%;background: url(../images/main_body.gif) top center;}
+#main_body{float:left;height:353px;width: 100%;background: url(../images/main_body.jpg) top center;}
 .main_title{font-size: 60px;font-weight: bold;color: #ffffff;margin: 40px auto;text-align: center;}
 .main_ul{list-style: none;width: 962px;margin: 0 auto;padding: 0px;}
 .main_ul li{float: left;}
