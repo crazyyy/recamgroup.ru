@@ -1,129 +1,129 @@
 <?php
     $zarr = array(
         "0" => array(
-            "name" => "ФОРСУНКА CAT 3116",
-            "price" => "15000"
+            "name" => "Cтартер Исузу",
+            "price" => "11300"
         ),
-        
+
         "1" => array(
-            "name" => "ФОРСУНКА Caterpillar C9",
-            "price" => "32700"
+            "name" => "Стартер Caterpillar 428F",
+            "price" => "19000"
         ),
-        
+
         "2" => array(
-            "name" => "СТЕКЛО ЛОБОВОЕ CAT 428E",
-            "price" => "16000"
+            "name" => "Стартер Perkins",
+            "price" => "18700"
         ),
-        
+
         "3" => array(
-            "name" => "ПОРШНЕВОЙ НАБОР CAT 3054",
-            "price" => "5000"
+            "name" => "Cтартер Ивеко",
+            "price" => "13400"
         ),
-        
+
         "4" => array(
-            "name" => "ВКЛАДЫШИ CATERPILLAR С15 (комплект)",
-            "price" => "9000"
+            "name" => "Cтартеры CAT",
+            "price" => "16500"
         ),
-        
+
         "5" => array(
-            "name" => "НАСОС МАСЛЯННЫЙ CAT 3116 № 200-4497",
-            "price" => "25950"
+            "name" => "Cтартер Cкания",
+            "price" => "13400"
         ),
-        
+
         "6" => array(
-            "name" => "СТАРТЕР CAT 3116 № 207-1516",
-            "price" => "26500"
+            "name" => "Cтартер Кия Бонго",
+            "price" => "9700"
         ),
-        
+
         "7" => array(
-            "name" => "КОРОНКИ КОВША Komatsu",
-            "price" => "1637"
+            "name" => "Cтартер FAW",
+            "price" => "12000"
         ),
-        
+
         "8" => array(
-            "name" => "ТНВД CATERPILLAR С9",
-            "price" => "166635"
+            "name" => "Генератор Портер",
+            "price" => "9800"
         ),
-        
+
         "9" => array(
-            "name" => "КОМПЛЕКТ ФИЛЬТРОВ для ТО CAT 3054",
-            "price" => "7900"
+            "name" => "Стартер ХИНО",
+            "price" => "14000"
         ),
-        
+
         "10" => array(
-            "name" => "СТЕКЛО БОКОВОЕ Komatsu WB97",
-            "price" => "12000"
-        ),
-        
-        "11" => array(
-            "name" => "СТЕКЛО БОКОВОЕ Hitachi ZX",
-            "price" => "9000"
-        ),
-        
-        "12" => array(
-            "name" => "БЛОК ЦИЛИНДРОВ Cummins ISF 2.8",
-            "price" => "62000"
-        ),
-        
-        "13" => array(
-            "name" => "БЛОК ЦИЛИНДРОВ CAT C9",
-            "price" => "102000"
-        ),
-        
-        "14" => array(
-            "name" => "КОЛЕНВАЛ Cummins M11",
-            "price" => "29000"
-        ),
-        
-        "15" => array(
-            "name" => "ГБЦ Cummins ISF 3.8",
-            "price" => "24703"
-        ),
-        
-        "16" => array(
-            "name" => "ГУСЕНИЦА Сaterpillar 330",
-            "price" => "250000"
-        ),
-        
-        "17" => array(
-            "name" => "КАРТРИДЖ ТУРБИНЫ CAT 3116 № 118-2032",
-            "price" => "39750"
-        ),
-        
-        "18" => array(
-            "name" => "ФОРСУНКА CAT 3054  C4.4  Perkins 2645K011",
-            "price" => "11000"
-        ),
-        
-        "19" => array(
-            "name" => "КОЛЬЦО ПОРШНЕВОЕ  CAT C7 № 238-2706",
-            "price" => "1850"
-        ),
-        
-        "20" => array(
-            "name" => "Фильтр масляный CAT C7 № 1R-1807",
-            "price" => "537"
-        ),
-        
-        "21" => array(
-            "name" => "Фильтр масляный  CAT C7 № 1R-1808",
-            "price" => "537"
-        ),
-        
-        "22" => array(
-            "name" => "СЕПАРАТОР ТОПЛИВА RACOC 230R",
-            "price" => "12000"
-        ),
-        
-        "23" => array(
-            "name" => "ФОРСУНКА 0445120123",
+            "name" => "Стартер Комацу",
             "price" => "14500"
         ),
-        
-        "24" => array(
-            "name" => "ФОРСУНКА 0445110376",
-            "price" => "11000"
+
+        "11" => array(
+            "name" => "Cтартер Лиаз",
+            "price" => "14500"
         ),
-        
+
+        "12" => array(
+            "name" => "Cтартер FAW 1041",
+            "price" => "11300"
+        ),
+
+        "13" => array(
+            "name" => "Cтартер  Донг Фенг",
+            "price" => "12300"
+        ),
+
+        "14" => array(
+            "name" => "Стартер New Holland",
+            "price" => "15600"
+        ),
+
+        "15" => array(
+            "name" => "Cтартер Cummins ISF 3.8",
+            "price" => "9500"
+        ),
+
+        "16" => array(
+            "name" => "Стартер экскаватора JCB",
+            "price" => "13400"
+        ),
+
+        "17" => array(
+            "name" => "Стартер Сummins Камаз",
+            "price" => "9800"
+        ),
+
+        "18" => array(
+            "name" => "Генератор Cummins",
+            "price" => "13400"
+        ),
+
+        "19" => array(
+            "name" => "Cтартер Dong Feng",
+            "price" => "13500"
+        ),
+
+        "20" => array(
+            "name" => "Стартер Cummins A2300",
+            "price" => "14500"
+        ),
+
+        "21" => array(
+            "name" => "Стартер Фредлайнер",
+            "price" => "12100"
+        ),
+
+        "22" => array(
+            "name" => "Cтартер JMC",
+            "price" => "9700"
+        ),
+
+        "23" => array(
+            "name" => "Cтартер  IVECO",
+            "price" => "13200"
+        ),
+
+        "24" => array(
+            "name" => "Cтартер JMC",
+            "price" => "9700"
+        ),
+
 );
 ?>
