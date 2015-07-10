@@ -12,7 +12,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/fancySelect.js"></script>
     <script src="js/need.js"></script>
-    <title>Узнай наличие и цену запчасти</title>
+    <title>Узнай наличие и цену турбин</title>
     <script type="text/javascript">
         /* init Call Service */
         var CallSiteId = 'f8d62754464a50f84a66e68cdf6e9370';
@@ -50,28 +50,15 @@
             </label>
         </div>
         <div class="slogan arrow_box">
-            Запчасти для спецтехники и грузовиков
+            Турбины  для спецтехники,  грузовиков и автобусов
         </div>
     </div>
 </div>
 <div id="main_body">
     <div class="center">
-        <h1 class="main_title">Узнай наличие и цену запчасти</h1>
+        <h1 class="main_title">Узнай наличие и цену турбин</h1>
         <div id="control">
         <ul class="main_ul">
-            <!--<li style="width: 186px">
-                <div id="div_clent_hodovoy">
-                <select name="client_hodovoy" id="client_hodovoy" onchange="update()" class="form-control">
-                    <option value="0">Выберите тип детали</option>
-                    <option>Ходовая часть</option>
-                    <option>Запчасти двигателя</option>
-                    <option>Навесное оборудование</option>
-                    <option>Гидравлика</option>
-                    <option>Запчасти для ТО</option>
-                </select>
-                </div>
-                <input type="hidden" id="input_client_hodovoy" name="input_client_hodovoy" value="0">
-            </li>-->
             <li style="width: 432px"><input type="text" class="main_input" name="client_comment" id="client_comment"   placeholder="введите артикул либо краткое описание запчасти"></li>
             <li style="width: 160px"><input type="text" class="main_input" name="client_phone" id="client_phone"  placeholder="телефон"></li>
             <li style="width: 186px">
@@ -105,11 +92,11 @@
 </div>
 <div id="static">
     <div class="center">
-        <h4>Самый большой склад запчастей для<br>
-            дорожно-строительной техники</h4>
+        <h4>Самый большой склад турбин для<br>
+            спецтехники, автобусов и грузовиков</h4>
         <div class="static_count">
             <label>4 000 000</label>
-            <div class="static_lenta">запчастей на складе</div>
+            <div class="static_lenta">наименований турбин на складе</div>
         </div>
     </div>
 </div>
@@ -148,36 +135,11 @@
         <h4>1-3 дня</h4>
     </div>
 </div>
-<!--
-<div id="chat">
-    <div class="center">
-        <div class="chat_widget">
-            <h1 class="chat_widget_title">Онлайн консультант</h1>
-            <div class="chat_widget_status">
-                <div class="color yellow"></div>
-                в сети
-            </div>
-
-            <div class="chat_widget_tablo">
-                <label class="chat_widget_line">Оператор на линии</label>
-                <ul class="chat_widget_ul">
-                    <li class="chat_widget_out"><span class="chat_widget_time">15:55</span> <i>Здравствуйте чем я могу вам помочь</i></li>
-                    <li class="chat_widget_in"></li>
-                </ul>
-            </div>
-            <div class="chat_widget_form">
-                <input class="chat_widget_input" name="chat_widget_input" id="chat_widget_input" placeholder="введите ваш вопрос">
-                <a href="javascript:void(0)" class="chat_widget_button">Отправить</a>
-            </div>
-            <img src="./images/manager.png" class="chat_widget_manger">
-        </div>
-    </div>
-</div>-->
 
 <div id="brend">
     <div class="center">
         <h4>Бренды с которыми мы работаем</h4>
-        <img src="./images/brand.gif">
+        <img src="./images/brands.jpg">
     </div>
 </div>
 
@@ -202,15 +164,9 @@
 
     </div>
 </div>
-<!--
 <link rel="stylesheet" href="//cdn.callbackhunter.com/widget/tracker.css">
 <script type="text/javascript"
-        src="//cdn.callbackhunter.com/widget/tracker.js" charset="UTF-8"></script >
-<script type="text/javascript">var hunter_code="1eb7e7d65d17ba13c9e93255d79d1361";</script>
--->
-<link rel="stylesheet" href="//cdn.callbackhunter.com/widget/tracker.css">
-<script type="text/javascript"
-        src="//cdn.callbackhunter.com/widget/tracker.js" charset="UTF-8"></script >
+        src="//cdn.callbackhunter.com/widget/tracker.js" charset="UTF-8"></script>
 <script type="text/javascript">var hunter_code="7ed9f6bcf5fbcb43319042e3bd909271";</script>
 
 </body>
